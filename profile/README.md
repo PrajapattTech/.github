@@ -4,8 +4,8 @@
 
 <h1 align="center">Prajapatt Technologies</h1>
 
-<p align="center">
+<h3 align="center">
 Software products and technology that help people and businesses.
-</p>
+</h3>
 
 - Prajapatt Technologies is a software company focused on creating useful, reliable, and innovative products that solve real-world problems through technology.
