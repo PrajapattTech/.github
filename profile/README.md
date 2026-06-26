@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../images/PrajapattTech-Innovate-Stuff.png" alt="Prajapatt Technologies">
+  <img src="../images/PrajapattTechnologies-Innovate-Stuff.png" alt="Prajapatt Technologies">
 </p>
 
 <h1 align="center">Prajapatt Technologies</h1>
