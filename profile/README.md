@@ -13,7 +13,3 @@ Software products and technology that help people and businesses.
 Prajapatt Technologies is a software product company focused on creating useful, reliable, and innovative products that solve real-world problems through technology.
 
 ---
-
-<h4 align="center">
-Built to help.
-</h4>
