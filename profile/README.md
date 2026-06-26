@@ -8,8 +8,4 @@
 Software products and technology that help people and businesses.
 </p>
 
----
-
-Prajapatt Technologies is a software company focused on creating useful, reliable, and innovative products that solve real-world problems through technology.
-
----
+- Prajapatt Technologies is a software company focused on creating useful, reliable, and innovative products that solve real-world problems through technology.
