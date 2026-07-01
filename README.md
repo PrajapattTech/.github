@@ -1,3 +1,3 @@
-# Prajapatt Technologies
+# Prajapatt
 
-Organization profile and default community files for Prajapatt Technologies on GitHub.
+Organization profile and default community files for Prajapatt on GitHub.
