@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="../images/Prajapatt-Innovate-Stuff.png" alt="Prajapatt Technologies">
+  <img src="../images/Prajapatt-Innovate-Stuff.png" alt="Prajapatt">
 </p>
-
-<h1 align="center">Prajapatt</h1>
 
 <h3 align="center"> 
   Software products and technology that help people and businesses.
